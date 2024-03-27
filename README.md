@@ -1,6 +1,6 @@
-#Desafío - Sugerencia de Videos
+# Desafío - Sugerencia de Videos
 
-##Caracteristicas:
+## Caracteristicas:
 1. **Patrón Módulo Implementado:**
    - Se utilizará el Patrón Módulo mediante IIFE (Immediately Invoked Function Expression) para modularizar y encapsular el código JavaScript.
 
@@ -18,7 +18,7 @@
    - Se invocará el método `playMultimedia` para mostrar los vídeos en el documento HTML.
    - Se utilizará el método `setInicio` para ajustar el tiempo de inicio en alguna de las instancias creadas.
    - 
-##Requerimientos
+## Requerimientos
 1. Implementación del Patrón Módulo mediante IIFE.
 2. Definición de la clase `Multimedia` con método `setInicio`.
 3. Creación de la clase `Reproductor` como hija de `Multimedia` con métodos `playMultimedia` y `setInicio`.
